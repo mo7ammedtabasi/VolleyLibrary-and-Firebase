@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="not_registered_in_the_application">Not registered in the application?</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="posts">Posts</string>
+    <string name="to_do_list">To-Do List</string>
+    <string name="photos">Photos</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_1">Title:sunt aut facere repellat provident occaecati excepturi optio reprehenderit</string>
+    <string name="body_1">Body:quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</string>
+    <string name="name_comment">Name : id labore ex et quam laborum</string>
+    <string name="email_comment">Email : Eliseo@gardner.biz</string>
+    <string name="body_comment">Body: laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium</string>
+
+    <string-array name="amount">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>ILS</item>
+        <item>GIP</item>
+        <item>LYD</item>
+        <item>JOD</item>
+        <item>QAR</item>
+        <item>SYP</item>
+        <item>KWD</item>
+        <item>SAR</item>
+        <item>MAD</item>
+        <item>TRY</item>
+        <item>AED</item>
+        <item>EGP</item>
+        <item>TND</item>
+        <item>BTC</item>
+        <item></item>
+    </string-array>
+    
+</resources>
